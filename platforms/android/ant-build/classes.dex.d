@@ -1,0 +1,23 @@
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes.dex : \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/org/apache/cordova/plugin/sms/Sms.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/org/apache/cordova/plugin/sms/Sms$1.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/honnguyen/angularSMS/HelloWorld.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/honnguyen/angularSMS/R$attr.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/honnguyen/angularSMS/R$string.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/honnguyen/angularSMS/BuildConfig.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/honnguyen/angularSMS/R$xml.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/honnguyen/angularSMS/R$drawable.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/honnguyen/angularSMS/R.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/phonegap/helloworld/HelloWorld.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/phonegap/helloworld/R$attr.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/phonegap/helloworld/R$string.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/phonegap/helloworld/BuildConfig.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/phonegap/helloworld/R$xml.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/phonegap/helloworld/R$drawable.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/com/phonegap/helloworld/R.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/info/asankan/phonegap/smsplugin/SmsReceiver.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/info/asankan/phonegap/smsplugin/SmsPlugin$ActionType.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/info/asankan/phonegap/smsplugin/SmsSender.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/info/asankan/phonegap/smsplugin/SmsPlugin$1.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/classes/info/asankan/phonegap/smsplugin/SmsPlugin.class \
+/home/honnguyen/workspace/angularSMS/platforms/android/ant-build/dexedLibs/classes-e342187c293e1d78d98c730cb4f9c143.jar \
